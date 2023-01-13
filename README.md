@@ -10,7 +10,7 @@ git clone https://github.com/dembenan/calculatrice-sc-python.git
 
 --> Aller dans le dossier : 
 ```bash
-cd calculatrice
+cd calculatrice-sc-python
 
 ```
 
@@ -39,6 +39,10 @@ pip install -r requirements.txt
 
 ```
 
+--> Lancer le programme avec  :
+```bash
+python calculator.py
 
+```
 
 
